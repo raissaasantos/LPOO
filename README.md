@@ -8,7 +8,7 @@
 - [Métodos](#4)
 - [Encapsulamento e Acoplamento](#5)
 
-##
+---
 <a name="1">
 <h1>Sintaxe da Linguagem e Controle de Fluxo</h1>
 </a>
@@ -51,7 +51,7 @@ regras dos atributos individuais, variando de acordo com o tipo de dado dos
 elementos e a linguagem de programação.
 PS: Citado na última questão de Classes e Objetos.
 
-##
+---
 <a name="2">
 <h1>Classes e Objetos</h1>
 </a>
@@ -93,6 +93,7 @@ reutilização de código e reduz a complexidade do sistema. <br>
 <br> Em resumo, buscar alta coesão em suas classes ajuda a criar sistemas mais 
 organizados, modulares e fáceis de manter.
 
+---
 <a name="3">
 <h1>Atributos</h1>
 </a>
@@ -117,6 +118,7 @@ Output padrão de cada tipo quando não inicializado.
 // String = null
 ```
 
+---
 <a name="4">
 <h1>Métodos</h1>
 </a>
@@ -132,6 +134,7 @@ código. Linguagens como Java e C# adotam camel case, com métodos "getters" e
 palavras separadas por sublinhados. 
 Seguir essas convenções resulta em código mais organizado e compreensível.
 
+---
 <a name="5">
 <h1>Encapsulamento e Acoplamento</h1>
 </a>
@@ -147,6 +150,7 @@ direto aos atributos por meio de modificadores de acesso, como "private".
 As vantagens do encapsulamento são diversas:
 
 - <b>Proteção dos dados: </b> Ao restringir o acesso direto aos atributos, evita-se que eles sejam modificados de forma inadequada, garantindo a integridade e a consistência dos dados do objeto.
+
 - <b>Ocultação da complexidade:</b> O encapsulamento permite esconder os detalhes internos de implementação de um objeto, tornando-o mais fácil de usar e entender. Os usuários do objeto interagem apenas com a interface pública, sem precisar se preocupar com os detalhes internos.
 - <b>Manutenibilidade:</b> Ao isolar os dados e os métodos em uma única unidade, o encapsulamento facilita a manutenção do código. As alterações na implementação interna de um objeto não afetam outras partes do sistema, desde que a interface pública permaneça a mesma.
 - <b>Reusabilidade:</b> Objetos encapsulados podem ser facilmente reutilizados em diferentes partes do sistema ou em outros sistemas, pois eles são unidades independentes e autocontidas.
