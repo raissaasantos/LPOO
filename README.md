@@ -8,7 +8,7 @@
 - [Métodos](#4)
 - [Encapsulamento e Acoplamento](#5)
 
----
+
 <a name="1">
 <h1>Sintaxe da Linguagem e Controle de Fluxo</h1>
 </a>
@@ -51,7 +51,7 @@ regras dos atributos individuais, variando de acordo com o tipo de dado dos
 elementos e a linguagem de programação.
 PS: Citado na última questão de Classes e Objetos.
 
----
+
 <a name="2">
 <h1>Classes e Objetos</h1>
 </a>
@@ -93,7 +93,7 @@ reutilização de código e reduz a complexidade do sistema. <br>
 <br> Em resumo, buscar alta coesão em suas classes ajuda a criar sistemas mais 
 organizados, modulares e fáceis de manter.
 
----
+
 <a name="3">
 <h1>Atributos</h1>
 </a>
@@ -118,7 +118,6 @@ Output padrão de cada tipo quando não inicializado.
 // String = null
 ```
 
----
 <a name="4">
 <h1>Métodos</h1>
 </a>
@@ -134,7 +133,7 @@ código. Linguagens como Java e C# adotam camel case, com métodos "getters" e
 palavras separadas por sublinhados. 
 Seguir essas convenções resulta em código mais organizado e compreensível.
 
----
+
 <a name="5">
 <h1>Encapsulamento e Acoplamento</h1>
 </a>
